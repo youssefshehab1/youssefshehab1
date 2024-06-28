@@ -5,7 +5,7 @@
 ###
 <br clear="both">
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'M Youssef Shehab! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 T𝐡𝐞𝐫𝐞, I'm Youssef Shehab! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 ###
@@ -21,15 +21,15 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- `Softwre Testin Engieer` at [ITWORX Education](https://itworx.education/) `Internship` Feb 2024-Present.
-- `Freelance Softwre Testin Engieer` at [UTEST](https://www.utest.com/) `Freelance` Nov 2023-Present .
+- `Software Testing Engineer` at [ITWORX Education](https://itworx.education/) `Internship` Feb 2024-Present.
+- `Freelance Software Testing Engineer` at [UTEST](https://www.utest.com/) `Freelance` Nov 2023-Present.
 - `IT Specialist` at [SPC for Continuing Education](https://www.spc-eg.com/)`Full-Time`Feb 2023-Present.
 - Certificates: ISTQB®CTFL `Done`, ISTQB®CTFL-AT `In progress`,ISTQB®CT-MAT `In progress`.
 - Testing: Manual and Automation Testing (Web | Mobile) || Read & understand business documents (Experienced in LMS | EdTech) || Test Case
 Design || Defect Tracking || Find defects on a static testing basis (Examine work products like requirements and system diagrams) || Write bug
 reports || API Testing || E2E Testing ||Confirmation Testing || Regression Testing || Smoke Testing || Database Testing || Security Testing (basics).
 - Tools: `Jira` | `TFS` || `Postman` || `Newman` || `Jenkins` || `Linux` || `Git` | `GitHub` || `Selenium` || `Katalon` || `TestNG` || `POM` || `BDD` || `Cucumber`||`Zaproxy`.
-- :student: I’m currently learning `API Automaion Testing` Using `Restassured`.
+- :student: I’m currently learning `API Automation Testing` Using `Restassured`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1H6b6SvelzVQ381Ohd-vZ9coik3MZFCg4/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://flowcv.me/youssef-shehab).
@@ -81,7 +81,7 @@ reports || API Testing || E2E Testing ||Confirmation Testing || Regression Testi
 Connect With Me
 </h2>
 <div align="center">
-  <a href="youssefshehab19@gmail.com" target="youssefshehab19@gmail.com">
+  <a href="mailto:youssefshehab19@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="37" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/youssef-shehab-359959142/" target="_blank">
