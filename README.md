@@ -87,7 +87,6 @@ Connect With Me
   <a href="https://www.linkedin.com/in/youssef-shehab-359959142/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="37" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="37" alt="hackerrank logo"  />
 </div>
 <br>
 
