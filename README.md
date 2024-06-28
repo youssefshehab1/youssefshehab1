@@ -29,6 +29,8 @@
 Design || Defect Tracking || Find defects on a static testing basis (Examine work products like requirements and system diagrams) || Write bug
 reports || API Testing || E2E Testing ||Confirmation Testing || Regression Testing || Smoke Testing || Database Testing || Security Testing (basics).
 - Tools: `Jira` | `TFS` || `Postman` || `Newman` || `Jenkins` || `Linux` || `Git` | `GitHub` || `Selenium` || `Katalon` || `TestNG` || `POM` || `BDD` || `Cucumber`||`Zaproxy`.
+- Programming: `Java` || `Python` || `C` || `C++` || `C#` || `SQL`.
+- Methodologies: `Agile` Scrum || `CI/CD`
 - :student: I’m currently learning `API Automation Testing` Using `Restassured`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1H6b6SvelzVQ381Ohd-vZ9coik3MZFCg4/view?usp=sharing).
