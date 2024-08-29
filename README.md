@@ -5,7 +5,7 @@
 ###
 <br clear="both">
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 T𝐡𝐞𝐫𝐞, I'm Youssef Shehab! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 T𝐡𝐞𝐫𝐞, I'm Youssef S. Elbanna! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 ###
@@ -21,9 +21,11 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- `Software Testing Engineer` at [ITWORX Education](https://itworx.education/) `Internship` Feb 2024-Present.
-- `Freelance Software Testing Engineer` at [UTEST](https://www.utest.com/) `Freelance` Nov 2023-Present.
-- `IT Specialist` at [SPC for Continuing Education](https://www.spc-eg.com/)`Full-Time`Feb 2023-Present.
+- `Software Quality Assurance Engineer` at [Samtech Me Group](https://samtech-megroup.com/) `Full-Time (Remote) || Dubai, UAE ` Jul 2024 - Present.
+- `Software Testing Engineer` at [Apex IT Solutions](https://www.apex.ps/) `Freelance` May 2024 - Jul 2024.
+-  `Software Testing Engineer` at [ITWORX Education](https://itworx.education/) `Internship || Cairo, Egypt` Feb 2024 - May 2024.
+- `Freelance Software Testing Engineer` at [UTEST](https://www.utest.com/) `Freelance` Nov 2023 - May 2024.
+- `IT Specialist` at [SPC for Continuing Education](https://www.spc-eg.com/)`Full-Time || Cairo, Egypt` Feb 2023 - May 2024.
 - Certificates: ISTQB®CTFL `Done`, ISTQB®CTFL-AT `In progress`,ISTQB®CT-MAT `In progress`.
 - Testing: Manual and Automation Testing (Web | Mobile) || Read & understand business documents (Experienced in LMS | EdTech) || Test Case
 Design || Defect Tracking || Find defects on a static testing basis (Examine work products like requirements and system diagrams) || Write bug
