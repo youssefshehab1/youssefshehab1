@@ -1,101 +1,87 @@
+<h1 align="center">Hi there, I'm Youssef Elbanna 👋</h1>
+<h3 align="center">QA Lead | Test Automation Architect | 5+ Years of Delivering Quality at Scale</h3>
 
-<h3 align="center"> إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ ۚ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا </h3>
-<br clear="both">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=700&height=45&lines=Leading+QA+for+UAE+Government+Platforms;5%2B+years+of+experience+in+QA+and+Release+Management;Driving+Test+Automation+and+Quality+Strategy" alt="Typing SVG" />
+</p>
 
-###
-<br clear="both">
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 T𝐡𝐞𝐫𝐞, I'm Youssef S. Elbanna! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+---
 
-###
+## 🧑‍💻 About Me
 
-<h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sreif&weight=1000&duration=2000&pause=600&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=500&height=150&lines=A+passionate+Software+Testing+Engineer+;with+a+year+of+experience%2C+ISTQB+FL+certified;skilled+in+manual+and+automation+testing;+for+web%2C+mobile%2C+and+API;committed+to+quality+%26+continuous+improvement" alt="Typing SVG" /></a>
-</h2>
+I'm **Youssef S. Elbanna**, a **QA Lead** with 5+ years of experience delivering quality at scale for large government and enterprise systems.
 
-###
+*   🔭 **Currently**: **QA Lead** at **Department of Government Enablement (UAE)**. I lead a team of 3 engineers ensuring quality for a live government platform, and have reduced the defect resolution cycle by **30%**.
+*   🎓 **Certifications**: `ISTQB® CTFL`, `ISTQB® CT-MAT`, and `ISTQB® CTFL-AT` (in progress).
+*   💼 **2026 Goals**: Complete **ISTQB® Advanced Level**, and drive **100% automation coverage** for critical paths.
+*   🌐 **Find me**: [My Website](https://flowcv.me/youssef-shehab) | [My Resume](<link-to-your-updated-PDF>)
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+---
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+## 🛠️ Tech Stack
 
+<!-- Badges can be obtained from shields.io or from Ileriayo/markdown-badges -->
 
-- `Software Quality Assurance Engineer` at [Samtech Me Group](https://samtech-megroup.com/) `Full-Time (Remote) || Dubai, UAE ` Jul 2024 - Present.
-- `Software Testing Engineer` at [Apex IT Solutions](https://www.apex.ps/) `Freelance` May 2024 - Jul 2024.
--  `Software Testing Engineer` at [ITWORX Education](https://itworx.education/) `Internship || Cairo, Egypt` Feb 2024 - May 2024.
-- `Freelance Software Testing Engineer` at [UTEST](https://www.utest.com/) `Freelance` Nov 2023 - May 2024.
-- `IT Specialist` at [SPC for Continuing Education](https://www.spc-eg.com/)`Full-Time || Cairo, Egypt` Feb 2023 - May 2024.
-- Certificates: ISTQB®CTFL `Done`, ISTQB®CTFL-AT `In progress`,ISTQB®CT-MAT `In progress`.
-- Testing: Manual and Automation Testing (Web | Mobile) || Read & understand business documents (Experienced in LMS | EdTech) || Test Case
-Design || Defect Tracking || Find defects on a static testing basis (Examine work products like requirements and system diagrams) || Write bug
-reports || API Testing || E2E Testing ||Confirmation Testing || Regression Testing || Smoke Testing || Database Testing || Security Testing (basics).
-- Tools: `Jira` | `TFS` || `Postman` || `Newman` || `Jenkins` || `Linux` || `Git` | `GitHub` || `Selenium` || `Katalon` || `TestNG` || `POM` || `BDD` || `Cucumber`||`Zaproxy`.
-- Programming: `Java` || `Python` || `C` || `C++` || `C#` || `SQL`.
-- Methodologies: `Agile` Scrum || `CI/CD`
-- :student: I’m currently learning `API Automation Testing` Using `Restassured`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1H6b6SvelzVQ381Ohd-vZ9coik3MZFCg4/view?usp=sharing).
-- :boom: You can visit [MY WEBSITE](https://flowcv.me/youssef-shehab).
-<br>
+### 🧪 Testing & Automation
 
-###
+![Tosca](https://img.shields.io/badge/Tosca-000000?style=for-the-badge&logo=tricentis&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-28A745?style=for-the-badge&logo=apache&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
 
+### ⚙️ Project & Test Management
 
-# 💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="5%"/>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-<br>
+![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Xray](https://img.shields.io/badge/Xray-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00B3B3?style=for-the-badge&logo=servicenow&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-###
+### 🔄 CI/CD & DevOps
 
-<br clear="both">
-<h2>
-    <img
-      src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Handshake.gif"
-      height="25px"
-    />
-Connect With Me
-</h2>
-<div align="center">
-  <a href="mailto:youssefshehab19@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="37" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-shehab-359959142/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="37" alt="linkedin logo"  />
-  </a>
-</div>
-<br>
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-###
+### 💻 Programming Languages
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=youssefshehab1.youssefshehab1&left_text=Profile%20Views"  />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 
-###
+---
+
+## 📌 Pinned Projects
+
+<!-- Pin 4-6 of your best repositories here. Research shows that professionals pin projects that reflect their real skills, not just random ones. -->
+
+[![Tosca-Automation-Framework](https://github-readme-stats.vercel.app/api/pin/?username=youssefshehab1&repo=tosca-automation-framework&theme=dark)](https://github.com/youssefshehab1/tosca-automation-framework)
+[![RestAssured-API-Suite](https://github-readme-stats.vercel.app/api/pin/?username=youssefshehab1&repo=restassured-api-suite&theme=dark)](https://github.com/youssefshehab1/restassured-api-suite)
+[![Jira-ServiceNow-Integration](https://github-readme-stats.vercel.app/api/pin/?username=youssefshehab1&repo=jira-servicenow-workflow&theme=dark)](https://github.com/youssefshehab1/jira-servicenow-workflow)
+[![Playwright-Testing-Framework](https://github-readme-stats.vercel.app/api/pin/?username=youssefshehab1&repo=playwright-testing-framework&theme=dark)](https://github.com/youssefshehab1/playwright-testing-framework)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefshehab1&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefshehab1&layout=compact&theme=dark" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-shehab-359959142/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youssefshehab19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://flowcv.me/youssef-shehab"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youssefshehab1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
